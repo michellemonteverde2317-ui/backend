@@ -1,5 +1,5 @@
 # Kubera
-## Verifiable on-chain credit score system
+.## Verifiable on-chain credit score system
 Kubera brings a paradigm shift with regards to how users are whitelisted for Institutional DeFi Protocols. Now, there is no need to trust any centralized provider for information regarding the credit worthiness of an user. Data on the blockchain is public and provably so. So why shouldn't we use that as a bsis for selection. These types of protocols require users to meet certain checkpoints to be eligible for whitelisting. Kubera provides a trust minimized solution for these protocols to verify if a user meets their required threshold.
 
 ## How it works
